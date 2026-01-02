@@ -4,16 +4,13 @@
 
 This project analyzes public perceptions of the carbon tax policy in Indonesia using a clustering approach. The objective is to identify distinct groups of respondents and understand their perspectives on the effectiveness, implementation, and impact of the carbon tax across various sectors.
 
-🔍 Key Findings
+## 🔍 Key Findings
 
 The analysis reveals four distinct clusters of respondents, each reflecting diverse viewpoints on the carbon tax policy:
-
-General Agreement on Effectiveness
-Most respondents believe that the carbon tax is effective in reducing carbon emissions and contributes positively to:
-
-Environmental protection
-
-Public health improvement
+- General Agreement on Effectiveness
+  Most respondents believe that the carbon tax is effective in reducing carbon emissions and contributes positively to:
+  -- Environmental protection
+  -- Public health improvement
 
 Infrastructure development
 
